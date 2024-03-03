@@ -8,12 +8,12 @@
 
 # Story of Delicious
 
-<img src="./ss/1.PNG"  width="850" height="250">
+<img src="./SS/1.PNG"  width="850" height="250">
 
 ## Interesting Fact
 For a very long period of time the servers of Delicious were running on personal machines/laptops.
 
-<img src="./ss/2.PNG"  width="450" height="250">
+<img src="./SS/2.PNG"  width="450" height="250">
 
 # App Architecture
 
@@ -29,7 +29,7 @@ Server is just an uber level component having very complex components inside. eg
 
 - DNS - DNS, or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
 
-<img src="./ss/3.png"  width="550" height="350">
+<img src="./SS/3.png"  width="550" height="350">
 
 How do we know which DNS to hit?
 

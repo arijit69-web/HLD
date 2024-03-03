@@ -8,12 +8,12 @@
 
 # Story of Delicious
 
-<img src="./SS/1.PNG"  width="850" height="250">
+<img src="./SS/1.png"  width="850" height="250">
 
 ## Interesting Fact
 For a very long period of time the servers of Delicious were running on personal machines/laptops.
 
-<img src="./SS/2.PNG"  width="450" height="250">
+<img src="./SS/2.png"  width="450" height="250">
 
 # App Architecture
 
